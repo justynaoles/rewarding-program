@@ -13,6 +13,7 @@ it('Calculate points', () => {
   expect(calcPoints(50, 100, 120)).toEqual(90);
   expect(calcPoints(50, 100, 40)).toEqual(0);
   expect(calcPoints(50, 100, 50.85)).toEqual(0);
+  expect(calcPoints(50, 100, 208.50)).toEqual(266);
 });
 
 const users = [{
@@ -135,14 +136,14 @@ const users = [{
     {
       lastname: "Smith",
       name: "Adam",
-      total: 5022,
+      total: 5018,
       avatar: "avatar.jpg",
       transactions: [
         {
           month: "October",
           monthId: 10,
-          total: 2283,
-          value: [698, 0, 8, 0, 151, 1426]
+          total: 2282,
+          value: [698, 0, 8, 0, 150, 1426]
         },
         {
           month: "November",
@@ -153,8 +154,8 @@ const users = [{
         {
           month: "December",
           monthId: 12,
-          total: 2509,
-          value: [99, 51, 0, 0, 2351, 8]
+          total: 2506,
+          value: [98, 50, 0, 0, 2350, 8]
         }
       ]
     }

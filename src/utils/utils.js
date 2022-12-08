@@ -8,7 +8,8 @@ export const calcPoints = (base, extra, transaction) => {
     } else if (transaction > base && transaction < extra) {
         return Math.floor(transaction - base);
     } 
-    return  Math.floor((transaction - extra) * 2 + base);
+    const transactionRounded = Math.floor(transaction); 
+    return  (transactionRounded - extra) * 2 + base;
 }
 
 
