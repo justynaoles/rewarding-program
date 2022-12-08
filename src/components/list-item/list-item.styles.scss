@@ -1,0 +1,11 @@
+@import '../../style/variables.scss';
+
+.list-item {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0;
+    padding: $base-size * 2 0;
+    list-style: none;
+}

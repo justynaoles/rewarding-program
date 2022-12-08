@@ -1,0 +1,24 @@
+@import './reset.scss';
+@import './variables.scss';
+@import './mixins.scss';
+@import './fonts.scss';
+
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: $main-font;
+}
+
+img {
+    max-width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: 700;
+}

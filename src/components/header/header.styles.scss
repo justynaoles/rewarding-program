@@ -1,0 +1,13 @@
+@import '../../style/variables.scss';
+
+.header {
+    padding: $base-size * 2 0;
+
+    @include breakpoint(m) {
+        padding: $base-size * 2.5 0;
+    }
+
+    @include breakpoint(l) {
+        padding: $base-size * 3 0;
+    }
+}

@@ -1,0 +1,16 @@
+@import '../../style/variables.scss';
+
+.header {
+
+    &-h1 {
+        font-size: map-get($font-size, 'medium');
+
+        @include breakpoint(m) {
+            font-size: map-get($font-size, 'large');
+        }
+
+        @include breakpoint(l) {
+            font-size: map-get($font-size, 'extra-large');
+        }
+    }
+}

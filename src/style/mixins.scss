@@ -1,0 +1,4 @@
+//paddings
+@mixin setPaddings($top, $right, $bottom, $left) {
+    padding: $top $right $bottom, $left;
+}

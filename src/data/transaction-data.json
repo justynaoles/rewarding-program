@@ -1,0 +1,181 @@
+{
+  "users":[
+    {
+      "name": "Adam",
+      "lastname": "Smith",
+      "transactions": [
+        {
+          "month": "December",
+          "monthId": 12,
+          "payments": [
+            {
+              "date": "2022-12-01-8:30-AM",
+              "value": 124.87,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-12-01-8:30-AM",
+              "value": 100.87,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-12-01-8:30-AM",
+              "value": 50.87,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-12-01-8:30-AM",
+              "value": 20.87,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-12-01-8:30-AM",
+              "value": 1250.87,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-12-01-8:30-AM",
+              "value": 58.25,
+              "currency": "dollar"
+            }
+          ]
+        },
+        {
+          "month": "November",
+          "monthId": 11,
+          "payments": [
+            {
+              "date": "2022-11-01-8:30-AM",
+              "value": 100,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-11-01-8:30-AM",
+              "value": 63.97,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-11-01-8:30-AM",
+              "value": 51.99,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-11-01-8:30-AM",
+              "value": 20.87,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-11-01-8:30-AM",
+              "value": 50.87,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-11-01-8:30-AM",
+              "value": 158.25,
+              "currency": "dollar"
+            }
+          ]
+        },
+        {
+          "month": "October",
+          "monthId": 10,
+          "payments": [
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 424.31,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 21,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 58,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 12.37,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 150.87,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 788.25,
+              "currency": "dollar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Joanna",
+      "lastname": "Smith",
+      "transactions": [
+        {
+          "month": "December",
+          "monthId": 12,
+          "payments": []
+        },
+        {
+          "month": "November",
+          "monthId": 11,
+          "payments": [
+            {
+              "date": "2022-11-01-8:30-AM",
+              "value": 100,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-11-01-8:30-AM",
+              "value": 120,
+              "currency": "dollar"
+            }
+          ]
+        },
+        {
+          "month": "October",
+          "monthId": 10,
+          "payments": [
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 424.31,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 21,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 58,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 12.37,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 150.87,
+              "currency": "dollar"
+            },
+            {
+              "date": "2022-10-01-8:30-AM",
+              "value": 788.25,
+              "currency": "dollar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

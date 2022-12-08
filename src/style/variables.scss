@@ -1,0 +1,50 @@
+//colors
+$colors: (
+    'primary': #000000,
+    'secondary': #FFFFFF,
+    'third': #132E62,
+    'bg': #e5e5e5,
+    'text': #171414,
+    'highlight': #17B7EA
+    );
+
+//breakpoints
+$breakpoints: (
+    'm': 768px,
+    'l': 1200px,
+    'xl': 1500
+    );
+
+@mixin breakpoint ($breakpoint) {
+    @media (min-width: #{ map-get( $breakpoints, $breakpoint ) }) {
+        @content;
+    }
+}
+
+//sizes
+$base-size: 16px;
+
+//fonts
+$main-font: 'Intern', sans-serif;
+$font-weights: (
+    'regular':400,
+    'semibold': 600,
+    'bold':700
+);
+
+//font-size
+$font-size: (
+    'small': $base-size * .8,
+    'base': $base-size, //16px,
+    'medium': $base-size * 1.5, //24px
+    'large': $base-size * 2.5, //40px
+    'extra-large': $base-size * 3, //48px,
+    'header': $base-size * 3.75, //60px,
+    'large-header': $base-size * 5 //80px
+);
+
+$text-size: (
+    'small': 14px,
+    'base': 18px,
+    'medium': 20px
+)
