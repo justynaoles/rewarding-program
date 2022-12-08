@@ -1,8 +1,8 @@
+## Start project:
+
 Install packages:
 
 ### `npm install`
-
-## Start project:
 
 In the project directory, you can run:
 
