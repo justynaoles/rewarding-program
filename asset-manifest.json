@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rewarding-program/static/css/main.f17f1c11.css",
-    "main.js": "/rewarding-program/static/js/main.481e3ba0.js",
-    "static/js/787.9ff55098.chunk.js": "/rewarding-program/static/js/787.9ff55098.chunk.js",
-    "static/media/user2.jpg": "/rewarding-program/static/media/user2.51f89d0a04036dfac101.jpg",
-    "static/media/user1.jpg": "/rewarding-program/static/media/user1.a48c606b05b4cf296482.jpg",
-    "index.html": "/rewarding-program/index.html",
-    "main.f17f1c11.css.map": "/rewarding-program/static/css/main.f17f1c11.css.map",
-    "main.481e3ba0.js.map": "/rewarding-program/static/js/main.481e3ba0.js.map",
-    "787.9ff55098.chunk.js.map": "/rewarding-program/static/js/787.9ff55098.chunk.js.map"
+    "main.css": "/rewards-program/static/css/main.f17f1c11.css",
+    "main.js": "/rewards-program/static/js/main.7ee81236.js",
+    "static/js/787.9ff55098.chunk.js": "/rewards-program/static/js/787.9ff55098.chunk.js",
+    "static/media/user2.jpg": "/rewards-program/static/media/user2.51f89d0a04036dfac101.jpg",
+    "static/media/user1.jpg": "/rewards-program/static/media/user1.a48c606b05b4cf296482.jpg",
+    "index.html": "/rewards-program/index.html",
+    "main.f17f1c11.css.map": "/rewards-program/static/css/main.f17f1c11.css.map",
+    "main.7ee81236.js.map": "/rewards-program/static/js/main.7ee81236.js.map",
+    "787.9ff55098.chunk.js.map": "/rewards-program/static/js/787.9ff55098.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f17f1c11.css",
-    "static/js/main.481e3ba0.js"
+    "static/js/main.7ee81236.js"
   ]
 }
